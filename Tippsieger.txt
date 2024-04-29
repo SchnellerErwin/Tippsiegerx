@@ -1,0 +1,74 @@
+
+
+```html
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hall of Fame - Tippsieger</title>
+</head>
+<body>
+
+    <header>
+        <h1>Hall of Fame - Tippsieger</h1>
+    </header>
+
+    <main>
+        <table>
+            <thead>
+                <tr>
+                    <th>Jahr</th>
+                    <th>Tippsieger</th>
+                    <th>Meisterschale</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>2023</td>
+                    <td>Aaron/Emilian</td>
+                    <td>🏆</td>
+                </tr>
+                <tr>
+                    <td>2022</td>
+                    <td>Titus</td>
+                    <td>🏆</td>
+                </tr>
+                <tr>
+                    <td>2021</td>
+                    <td>Aaron</td>
+                    <td>🏆</td>
+                </tr>
+                <tr>
+                    <td>2020</td>
+                    <td>Jonathan</td>
+                    <td>🏆</td>
+                </tr>
+                <tr>
+                    <td>2019</td>
+                    <td>Jonathan</td>
+                    <td>🏆</td>
+                </tr>
+                <tr>
+                    <td>2018</td>
+                    <td>Noa</td>
+                    <td>🏆</td>
+                </tr>
+                <tr>
+                    <td>2017</td>
+                    <td>Aaron</td>
+                    <td>🏆</td>
+                </tr>
+                <tr>
+                    <td>2016</td>
+                    <td>Aaron</td>
+                    <td>🏆</td>
+                </tr>
+                <!-- Weitere Einträge für andere Jahre -->
+            </tbody>
+        </table>
+    </main>
+
+</body>
+</html>
+```
